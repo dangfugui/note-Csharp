@@ -1,0 +1,8 @@
+I:\学习库\work space\c#\classnote\test2\bin\Debug\test2.exe
+I:\学习库\work space\c#\classnote\test2\bin\Debug\test2.pdb
+I:\学习库\work space\c#\classnote\test2\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\学习库\work space\c#\classnote\test2\obj\x86\Debug\test2.Properties.Resources.resources
+I:\学习库\work space\c#\classnote\test2\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\学习库\work space\c#\classnote\test2\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\学习库\work space\c#\classnote\test2\obj\x86\Debug\test2.exe
+I:\学习库\work space\c#\classnote\test2\obj\x86\Debug\test2.pdb

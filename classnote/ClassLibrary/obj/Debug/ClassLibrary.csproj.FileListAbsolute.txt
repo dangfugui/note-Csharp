@@ -1,0 +1,5 @@
+I:\学习库\work space\c#\classnote\ClassLibrary\bin\Debug\ClassLibrary.dll
+I:\学习库\work space\c#\classnote\ClassLibrary\bin\Debug\ClassLibrary.pdb
+I:\学习库\work space\c#\classnote\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+I:\学习库\work space\c#\classnote\ClassLibrary\obj\Debug\ClassLibrary.dll
+I:\学习库\work space\c#\classnote\ClassLibrary\obj\Debug\ClassLibrary.pdb

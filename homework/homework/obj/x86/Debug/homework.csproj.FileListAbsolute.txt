@@ -1,0 +1,9 @@
+I:\学习库\work space\c#\classnote\homework\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\学习库\work space\c#\classnote\homework\bin\Debug\homework.exe
+I:\学习库\work space\c#\classnote\homework\bin\Debug\homework.pdb
+I:\学习库\work space\c#\classnote\homework\obj\x86\Debug\homework.exe
+I:\学习库\work space\c#\classnote\homework\obj\x86\Debug\homework.pdb
+I:\学习库\work space\c#\homework\homework\obj\x86\Debug\homework.exe
+I:\学习库\work space\c#\homework\homework\obj\x86\Debug\homework.pdb
+I:\学习库\work space\c#\homework\homework\bin\Debug\homework.exe
+I:\学习库\work space\c#\homework\homework\bin\Debug\homework.pdb
